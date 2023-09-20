@@ -1,12 +1,12 @@
 ### Web Content Downloader
 
-This Python script allows you to download the text content from a given URL and save it to a text file. It can be useful for archiving web articles or extracting textual information from web pages.
+This Python script allows you to download the text content from a given URL and save it to a text file.
 
 ### Prerequisites
 
-Before running this script, make sure you have the following installed:
+Before running this script, the following things needs to be installed:
 
-- Python 3.x
+- Python 3.8
 - Conda (for managing dependencies)
 
 ### Setup
@@ -31,7 +31,7 @@ Before running this script, make sure you have the following installed:
 
        python web_downloader.py URL
 
-- Replace the URL with the URL of the web page you want to download using the following command line:
+- Replace the URL with the URL link of the web page  to download using the following command line:
 
        python web_downloader.py " URL LINK "
 
@@ -43,7 +43,7 @@ If you need to recreate the Conda environment with the required dependencies, yo
 
 
 ### Contributing
-If you have suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request. Contributions are welcome!
+Feel free to open an issue or create a pull request if you have suggestions, improvements, or bug fixes. Contributions are  more than welcome!
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details
