@@ -1,0 +1,7 @@
+### Activate the Conda environment using the following code :
+      conda activate web_downloader
+                
+ ### Export the Conda environment to a YAML file (command to export the environment to a requirements.yaml file:) :
+     conda env export --name web_downloader > requirements.yaml 
+
+
