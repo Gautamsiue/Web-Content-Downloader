@@ -46,4 +46,4 @@ If you need to recreate the Conda environment with the required dependencies, yo
 Feel free to open an issue or create a pull request if you have suggestions, improvements, or bug fixes. Contributions are  more than welcome!
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License. 
